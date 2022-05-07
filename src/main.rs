@@ -1,5 +1,5 @@
-// use helloworld;
+mod helloworld;
 
 fn main() {
-    // helloworld::helloworld::cs();
+    helloworld::helloworld::cs();
 }
