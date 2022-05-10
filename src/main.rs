@@ -1,5 +1,6 @@
-mod helloworld;
+// mod helloworld;
+mod origin_type;
 
 fn main() {
-    helloworld::helloworld::cs();
+    origin_type::origin_type::cs();
 }
